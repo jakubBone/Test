@@ -1,0 +1,1 @@
+# javamPokaze jest super
